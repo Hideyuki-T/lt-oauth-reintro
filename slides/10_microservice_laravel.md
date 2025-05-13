@@ -39,6 +39,6 @@ Laravel全体をマイクロサービスで使う必要はありません。
 > それがLaravelの設計力なのです。
 
 
-[README.md](../README.md)
-[9. 終章：ライブラリ任せの時代を超えて](../slides/09_final_message.md)
+[README.md](../README.md)<br>
+[9. 終章：ライブラリ任せの時代を超えて](../slides/09_final_message.md)<br>
 

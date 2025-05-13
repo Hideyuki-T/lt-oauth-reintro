@@ -43,6 +43,6 @@
 **OAuthを「使える」だけでなく「設計できる」ためには──**  
 Symfonyの思想がヒントになるかもしれません。
 
-[README.md](../README.md)
-[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)
-[8. まとめと技術者への提言](../slides/08_summary.md)
+[README.md](../README.md)<br>
+[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)<br>
+[8. まとめと技術者への提言](../slides/08_summary.md)<br>

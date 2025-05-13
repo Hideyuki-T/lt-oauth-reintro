@@ -47,6 +47,6 @@
 👉 `assets/diagrams/oauth_vs_oidc.png`  
 👉 `assets/diagrams/token_storage_risks.png`
 
-[README.md](../README.md)
-[4. Symfony × OAuthBundle 実装の内部構造](../slides/04_symfony_structure.md)
-[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)
+[README.md](../README.md)<br>
+[4. Symfony × OAuthBundle 実装の内部構造](../slides/04_symfony_structure.md)<br>
+[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)<br>

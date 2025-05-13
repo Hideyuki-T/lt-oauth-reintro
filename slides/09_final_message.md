@@ -36,6 +36,6 @@ OAuthに限らず、私たちは多くの処理を「ライブラリ任せ」で
 選び、設計し、実装する力を。  
 **ライブラリ任せの時代を超え、意図あるコードを書き続けましょう。**
 
-[README.md](../README.md)
-[8. まとめと技術者への提言](../slides/08_summary.md)
-[10. 付録：マイクロサービス化に備えるLaravelの設計力](../slides/10_microservice_laravel.md)
+[README.md](../README.md)<br>
+[8. まとめと技術者への提言](../slides/08_summary.md)<br>
+[10. 付録：マイクロサービス化に備えるLaravelの設計力](../slides/10_microservice_laravel.md)<br>

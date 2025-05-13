@@ -40,7 +40,7 @@ OAuthは、
 > 「第三者へのアクセス権移譲」を  
 > 安全かつ制限付きで行うための枠組み
 
-[README.md](../README.md)
-[1. 序章：再入門のすすめ](../slides/01_intro.md)
-[3. 登場人物とデータフローの全体像](../slides/03_flow_and_roles.md)
+[README.md](../README.md)<br>
+[1. 序章：再入門のすすめ](../slides/01_intro.md)<br>
+[3. 登場人物とデータフローの全体像](../slides/03_flow_and_roles.md)<br>
 
