@@ -37,3 +37,6 @@ Symfonyは、その問いに対してこう応えます：
 
 > ✅ **OAuthにおける「安心」とは、正しく設計できること。**  
 > Symfonyは、コードだけでなく「設計の道筋」をも提供してくれる。
+
+[5. 設計上の誤解とよくある落とし穴](slides/05_pitfalls.md)
+[7. Laravelとの比較にみる設計哲学の違い](slides/07_compare_laravel.md)
