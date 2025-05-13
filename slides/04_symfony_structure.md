@@ -1,7 +1,6 @@
 # 4. Symfony × OAuthBundle 実装の内部構造
 ─ *KnpUOAuth2ClientBundle における各コンポーネントの連携と、自動化の仕組み*
 
----
 
 ## 🧩 主要構成の流れ
 
