@@ -33,5 +33,6 @@
 > ✅ 今こそ、「設計できるOAuth」エンジニアへ  
 > 再入門は、理解ある実装者への第一歩
 
-[7. Laravelとの比較にみる設計哲学の違い](slides/07_compare_laravel.md)
-[9. 終章：ライブラリ任せの時代を超えて](slides/09_final_message.md)
+[README.md](../README.md)
+[7. Laravelとの比較にみる設計哲学の違い](../slides/07_compare_laravel.md)
+[9. 終章：ライブラリ任せの時代を超えて](../slides/09_final_message.md)

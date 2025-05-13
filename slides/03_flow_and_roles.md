@@ -41,5 +41,7 @@ OAuth 2.0 の本質を理解するためには、まず関係者（登場人物�
    要求されたデータを返却
 
 ```
-[2.OAuthの本質とは何か](slides/02_what_is_oauth.md)
-[4. Symfony × OAuthBundle 実装の内部構造](slides/04_symfony_structure.md)
+
+[README.md](../README.md)
+[2. OAuthの本質とは何か](../slides/02_what_is_oauth.md)
+[4. Symfony × OAuthBundle 実装の内部構造](../slides/04_symfony_structure.md)
