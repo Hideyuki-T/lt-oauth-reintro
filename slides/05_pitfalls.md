@@ -1,5 +1,5 @@
 # 05. 設計上の誤解とよくある落とし穴
-─ OpenID Connect との混同、トークン管理の誤用、セキュリティ設計の見落とし
+### ─ OpenID Connect との混同、トークン管理の誤用、セキュリティ設計の見落とし
 
 
 ## ❌ よくある誤解と落とし穴
@@ -46,3 +46,7 @@
 🖼️ *（図解：OAuth vs OIDC ／ トークンの安全な保存場所）*  
 👉 `assets/diagrams/oauth_vs_oidc.png`  
 👉 `assets/diagrams/token_storage_risks.png`
+
+[README.md](../README.md)<br>
+[4. Symfony × OAuthBundle 実装の内部構造](../slides/04_symfony_structure.md)<br>
+[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)<br>

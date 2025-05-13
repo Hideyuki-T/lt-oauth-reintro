@@ -1,10 +1,10 @@
 # 4. Symfony × OAuthBundle 実装の内部構造
-─ *KnpUOAuth2ClientBundle における各コンポーネントの連携と、自動化の仕組み*
+### ─ *KnpUOAuth2ClientBundle における各コンポーネントの連携と、自動化の仕組み*
 
 
 ## 🧩 主要構成の流れ
 
-```mermaid
+```
 [1] User
       │
       ▼
@@ -46,3 +46,6 @@
 | ⑧〜⑨  | ResourceOwner 経由で必要な情報に抽象化（名前・メールなど）  |
 | ⑨〜⑩  | Symfony Security に渡してログイン処理完了         |
 
+[README.md](../README.md)<br>
+[3. 登場人物とデータフローの全体像](../slides/03_flow_and_roles.md)<br>
+[5. 設計上の誤解とよくある落とし穴](../slides/05_pitfalls.md)<br>

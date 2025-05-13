@@ -38,3 +38,5 @@
 > 業務で扱うOAuthを、仕組みと思想から理解しなおし、  
 > 設計に活かせるエンジニアへ進化する──その第一歩となること。
 
+[README.md](../README.md)<br>
+[2. OAuthの本質とは何か](../slides/02_what_is_oauth.md)

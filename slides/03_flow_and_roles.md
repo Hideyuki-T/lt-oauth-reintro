@@ -1,5 +1,5 @@
 # 3. 登場人物とデータフローの全体像
-─ Resource Owner から Resource Server まで、実際の通信と責務の整理。
+### ─ Resource Owner から Resource Server まで、実際の通信と責務の整理。
 
 OAuth 2.0 の本質を理解するためには、まず関係者（登場人物）とその間で交わされるリクエストの流れを把握することが不可欠です。  
 ここでは「Authorization Code Flow（認可コードフロー）」を軸に、主要構成要素とデータフローを整理します。
@@ -39,3 +39,9 @@ OAuth 2.0 の本質を理解するためには、まず関係者（登場人物�
 
 ⑦ Resource Server → Client  
    要求されたデータを返却
+
+```
+
+[README.md](../README.md)<br>
+[2. OAuthの本質とは何か](../slides/02_what_is_oauth.md)<br>
+[4. Symfony × OAuthBundle 実装の内部構造](../slides/04_symfony_structure.md)<br>

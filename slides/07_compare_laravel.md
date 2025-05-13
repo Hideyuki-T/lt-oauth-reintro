@@ -1,5 +1,5 @@
 # 07. Laravelとの比較にみる設計哲学の違い
-─ Breeze + Socialite による構成との違いを通じ、フレームワークの思想を考察
+### ─ Breeze + Socialite による構成との違いを通じ、フレームワークの思想を考察
 
 
 ## ✅ Laravel：Breeze + Socialite の構成
@@ -43,3 +43,6 @@
 **OAuthを「使える」だけでなく「設計できる」ためには──**  
 Symfonyの思想がヒントになるかもしれません。
 
+[README.md](../README.md)<br>
+[6. それでも Symfony なら安心できる理由](../slides/06_why_symfony.md)<br>
+[8. まとめと技術者への提言](../slides/08_summary.md)<br>
