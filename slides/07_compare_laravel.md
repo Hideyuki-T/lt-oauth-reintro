@@ -1,5 +1,5 @@
 # 07. Laravelとの比較にみる設計哲学の違い
-─ Breeze + Socialite による構成との違いを通じ、フレームワークの思想を考察
+### ─ Breeze + Socialite による構成との違いを通じ、フレームワークの思想を考察
 
 
 ## ✅ Laravel：Breeze + Socialite の構成

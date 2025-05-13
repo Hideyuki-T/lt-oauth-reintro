@@ -1,5 +1,5 @@
 # 3. 登場人物とデータフローの全体像
-─ Resource Owner から Resource Server まで、実際の通信と責務の整理。
+### ─ Resource Owner から Resource Server まで、実際の通信と責務の整理。
 
 OAuth 2.0 の本質を理解するためには、まず関係者（登場人物）とその間で交わされるリクエストの流れを把握することが不可欠です。  
 ここでは「Authorization Code Flow（認可コードフロー）」を軸に、主要構成要素とデータフローを整理します。
