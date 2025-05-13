@@ -39,4 +39,4 @@
 > 設計に活かせるエンジニアへ進化する──その第一歩となること。
 
 
-2. [OAuthの本質とは何か](slides/02_what_is_oauth.md)
+2. **[OAuthの本質とは何か](slides/02_what_is_oauth.md)**  
